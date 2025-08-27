@@ -16,7 +16,7 @@ export default function Home() {
     <section className="main-section">
       <div className="page-heading py-16">
         <h1>Track your Resumes & Application  Ratings</h1>
-        <h2>Review all your job submissions and check AI-powered feedback</h2>
+        <h2>Review all your job submissions and check and get reliable AI-powered feedback</h2>
       </div>
 
       {
